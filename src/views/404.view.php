@@ -5,9 +5,9 @@
 <section class="content-section">
     <div class="small-container">
 
-        <h1>
+        <h2>
             <?= $this->pageTitle; ?>
-        </h1>
+        </h2>
         <p>Not found.</p>
 
     </div>
